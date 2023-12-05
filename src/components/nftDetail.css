@@ -1,0 +1,149 @@
+.header_search{
+
+    position: relative;
+  
+  }
+  .header_search .form-control {
+    background: transparent;
+    border: 1px solid #ffffff73;
+    padding: 22px 11px;
+    color: #fff;
+    border-radius: 4px;
+}
+.Create-NFT {
+    padding-top: 70px;
+}
+  
+.header_search .search_icn {
+  position: absolute;
+  right: 16px;
+  top: 12px;
+  cursor: pointer;
+  fill: #ffffff78;
+  font-size: 22px;
+}
+select.form-select {
+  width: 100%;
+  padding: 12px 7px;
+  border: 1px solid #ffffff73;
+  background-color: transparent;
+  color: #fff;
+  border-radius: 5px;
+}
+  
+  .header_search .form-control:focus{
+  
+    background-color: transparent;
+  
+    outline: none;
+  
+    box-shadow: none;
+  
+    border-color: #d1d1d1;
+  
+  }
+  
+  ::placeholder {
+  
+    color: #fff !important;
+  
+    font-size: 14px;
+  
+    opacity: 1; /* Firefox */
+  
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+  
+    color: #fff;
+  
+  }
+  .topng.row {
+    margin-top: 70px;
+}
+.nft-imag img {
+  width: 100%;
+}
+.overmain {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+.nft-name .banner-button {
+  display: block;
+  margin-top: 25px;
+}
+.nft-name .banner-button a.btn-action2 {
+  background-color: transparent;
+  color: #ff0000;
+  padding: 10px 34px 12px;
+  border-radius: 25px;
+  border: 2px solid #ff0000;
+  transition: 0.5s all;
+  text-decoration: none;
+}
+.nft-name .banner-button a.btn-action2:hover {
+  background-color: #ff0000;
+  color: #fff;
+ transition: 0.5s all;
+}
+.nftcard-main {
+  border: 0;
+  border-radius: 8px;
+  margin-bottom: 40px;
+  background-color: #16151a;
+  padding: 20px;
+}
+.left-bar h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.nft-name {
+  padding: 20px 0 0 0;
+}
+.left-bar p {
+  color: #ffffff73;
+}
+.nft-imag img {
+  border-radius: 8px;
+}
+.selectbar option {
+  background-color: #000;
+}
+span.owner {
+  color: #fff;
+  font-size: 16px;
+  margin-left: 9px;
+  font-weight: 700;
+}
+.right-bar {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff73;
+  margin-top: 14px;
+}
+ul.mb-3.nav.nav-tabs {
+  border: 0;
+  justify-content: center;
+}
+.Create-NFT .nav-tabs .nav-link {
+  margin-bottom: -1px;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  background-color: transparent;
+  color: #fff;
+  font-size: 18px;
+  padding: 2px 24px;
+  border-bottom: 1px solid transparent;
+}
+.Create-NFT .nav-item:hover:after {
+ display: none;
+}
+.Create-NFT .nav-tabs .nav-item.show .nav-link, .Create-NFT .nav-tabs .nav-link.active {
+  color: #ff0000;
+  border-bottom: 1px solid #ff0000;
+}
+
+
+

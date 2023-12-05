@@ -1,0 +1,63 @@
+a {
+color: white;
+}
+.twitter-link {
+  color: "white";
+  font-size: "16px";
+  margin-top: "15px";
+  margin-bottom: "15px";
+}
+.connect-wallet-button {
+  cursor: pointer;
+  background-color: transparent;
+  color: #FF0000;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 24px;
+  padding: 6px 10px 8px;
+  border: 2px solid #ff0000;
+}
+.connect-wallet-button:hover {
+  background-color: #FF0000;
+  color: #fff;
+}
+button#dropdown-basic {
+  cursor: pointer;
+  background-color: transparent;
+  color: #FF0000;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 24px;
+  padding: 9px 14px 8px 22px;
+  border: 2px solid #ff0000;
+}
+button#dropdown-basic:hover {
+  background-color: #FF0000;
+  color: #ffff;
+}
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+  box-shadow: none;
+}
+.btn-primary.focus, .btn-primary:focus {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+  box-shadow: none !important;
+}
+.dropdown-menu.show {
+  background-color: #FF0000;
+  border-radius: 24px;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+  color: white !important;
+  text-decoration: none;
+  background-color: #FF0000 !important;
+  font-weight: 500;
+  border-radius: 24px;
+  text-align: center;
+}
+.dropdown-item {
+  font-weight: 500 !important; 
+  text-align: center !important;
+  color: #fff !important;
+}
